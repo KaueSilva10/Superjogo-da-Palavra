@@ -6,7 +6,7 @@
 O **Super Jogo da Palavra Secreta** é uma aplicação interativa desenvolvida através de uma atividade na SPTech para praticar lógica de programação, manipulação de Arrays (Vetores) e estruturas condicionais em JavaScript.
 
 ## 🚀 Como funciona?
-O objetivo é descobrir a palavra oculta ("TRICOLOR") testando uma letra por vez. O sistema gerencia as letras restantes e atualiza o progresso em tempo real.
+O objetivo é descobrir a palavra oculta testando uma letra por vez. O sistema gerencia as letras restantes e atualiza o progresso em tempo real.
 
 - **Confira o Tamanho:** O jogo inicia informando quantos caracteres a palavra possui.
 - **Chute uma Letra:** O sistema aceita letras maiúsculas e minúsculas.
