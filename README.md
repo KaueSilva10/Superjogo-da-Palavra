@@ -1,10 +1,9 @@
 # 🎮 Super Jogo da Palavra Secreta
 
-![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)
 ![Linguagem](https://img.shields.io/badge/Language-JavaScript-yellow)
 ![Local](https://img.shields.io/badge/College-SPTech-red)
 
-O **Super Jogo da Palavra Secreta** é uma aplicação interativa desenvolvida para praticar lógica de programação, manipulação de Arrays (Vetores) e estruturas condicionais em JavaScript.
+O **Super Jogo da Palavra Secreta** é uma aplicação interativa desenvolvida através de uma atividade na SPTech para praticar lógica de programação, manipulação de Arrays (Vetores) e estruturas condicionais em JavaScript.
 
 ## 🚀 Como funciona?
 O objetivo é descobrir a palavra oculta ("TRICOLOR") testando uma letra por vez. O sistema gerencia as letras restantes e atualiza o progresso em tempo real.
